@@ -2,7 +2,8 @@
 
 
 
-<img width="1297" height="727" alt="Screenshot 2025-08-11 073230" src="https://github.com/user-attachments/assets/fd7a42d6-ebda-470a-adee-346979070654" />
+<img width="1356" height="748" alt="Screenshot 2025-08-14 140206" src="https://github.com/user-attachments/assets/073b919c-9f95-4a1b-a86b-fac2503d3b26" />
+
 
 
 ## Table of Contents
@@ -35,12 +36,13 @@ The dataset consists of a single table containing all relevant information, incl
 - DAX: Time intelligence calculations (e.g., MoM measures).
 
   
-  <img width="1366" height="906" alt="Screenshot 2025-08-14 064749" src="https://github.com/user-attachments/assets/7333cb46-e0fe-4dac-b118-70cf910b12a1" />
+<img width="1894" height="1007" alt="Screenshot 2025-08-14 140238" src="https://github.com/user-attachments/assets/fba2bb53-f5f4-4266-96c5-c3cfc89ef0db" />
+
 
 - Power BI: Interactive visualization and dashboard design.
 
-  
-<img width="1295" height="723" alt="Screenshot 2025-08-11 073250" src="https://github.com/user-attachments/assets/2e8e5d07-1423-42ba-8ef5-98ed2ef4acda" />
+  <img width="1363" height="769" alt="Screenshot 2025-08-14 140143" src="https://github.com/user-attachments/assets/50b7a7f5-17df-4320-9d4d-09d3a18b6d53" />
+
 
 - PowerPoint: Background design imported into Power BI.
 
