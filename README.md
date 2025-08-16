@@ -2,7 +2,7 @@
 
 
 
-----
+<img width="1297" height="728" alt="Screenshot 2025-08-16 152624" src="https://github.com/user-attachments/assets/cb97fa93-32c9-4ae9-bd2d-622f0003210f" />
 
 
 
@@ -41,7 +41,8 @@ The dataset consists of a single table containing all relevant information, incl
 
 - Power BI: Interactive visualization and dashboard design.
 
-  ----
+<img width="1295" height="717" alt="Screenshot 2025-08-16 152551" src="https://github.com/user-attachments/assets/0a444c5a-e62e-41d7-944d-1b78161d5a41" />
+
 
 
 - PowerPoint: Background design imported into Power BI.
