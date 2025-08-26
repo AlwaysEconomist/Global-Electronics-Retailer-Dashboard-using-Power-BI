@@ -2,7 +2,8 @@
 
 
 
-<img width="1297" height="728" alt="Screenshot 2025-08-16 152624" src="https://github.com/user-attachments/assets/cb97fa93-32c9-4ae9-bd2d-622f0003210f" />
+<img width="1445" height="814" alt="Screenshot 2025-08-26 105207" src="https://github.com/user-attachments/assets/7c03a960-23a7-450a-9934-c83240509f67" />
+
 
 
 
@@ -41,11 +42,10 @@ The dataset consists of a single table containing all relevant information, incl
 
 - Power BI: Interactive visualization and dashboard design.
 
-<img width="1295" height="717" alt="Screenshot 2025-08-16 152551" src="https://github.com/user-attachments/assets/0a444c5a-e62e-41d7-944d-1b78161d5a41" />
+<img width="1442" height="823" alt="Screenshot 2025-08-26 105143" src="https://github.com/user-attachments/assets/0acf81eb-ef81-4229-84be-e0387b414e6f" />
 
 
 
-- PowerPoint: Background design imported into Power BI.
 
 ## Data Cleaning/Preparation
 
@@ -89,11 +89,8 @@ The dataset consists of a single table containing all relevant information, incl
 
 
 
-
-
-
-
-
+## Link to the Dashboard
+https://app.powerbi.com/links/dU7RgTajgN?ctid=25ce0261-bbd6-49cd-a1e2-54260886d159&pbi_source=linkShare
 
 
 
