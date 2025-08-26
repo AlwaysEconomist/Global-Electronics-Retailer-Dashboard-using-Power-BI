@@ -37,7 +37,8 @@ The dataset consists of a single table containing all relevant information, incl
 - DAX: Time intelligence calculations (e.g., MoM measures).
 
   
-<img width="1894" height="1007" alt="Screenshot 2025-08-14 140238" src="https://github.com/user-attachments/assets/fba2bb53-f5f4-4266-96c5-c3cfc89ef0db" />
+<img width="1853" height="1004" alt="image" src="https://github.com/user-attachments/assets/c3ebab8f-5721-42be-8db4-f05666ee1df0" />
+
 
 
 - Power BI: Interactive visualization and dashboard design.
