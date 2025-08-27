@@ -56,10 +56,8 @@ The dataset consists of a single table containing all relevant information, incl
 ## Exploratory Data Analysis (EDA)
 
 - What are the sales, profit, and unit sold trends by month?
-- Which states contribute the most to sales?
-- How do average unit price, profit, and sales vary by retailer?
-- What are the top-performing product categories?
-- How are sales distributed across different sales methods and cities?
+- Which region, states and cities contribute the most to sales?
+- How do average unit price and sales vary by retailer?
 
 
 ##  The Power BI dashboard provides the following insights (based on May 2021 data):
@@ -72,12 +70,9 @@ The dataset consists of a single table containing all relevant information, incl
    - Cost: $3.95M (-34% MoM)
    - Average Price: $45.11 (+18% MoM)
 
-- Sales by State: Visualized on a map, showing concentration in the eastern U.S.
-- Relationship between Avg Unit Price, Profit, and Sales by Retailer: Scatter plot comparing retailers like Walmart, Amazon, Foot Locker, etc.
+- Sales by State: Visualized on a decomposition tree, showing concentration in the eastern U.S.
+- Relationship between Avg Unit Price and Sales by Retailer: Scatter plot comparing retailers like Walmart, Amazon, Foot Locker, etc.
 - Sales by Month: Bar chart showing monthly trends for 2021, with dynamic MoM calculations.
-- Products Performance: Table detailing sales, profit, and growth for categories like Men's Apparel and Women's Athletic Footwear.
-- Sales by Sales Method: Pie chart showing distribution (e.g., Outlet: 28%, In-store: 37%, Online: 34%).
-- Top 3 Cities by Sales: Los Angeles ($1.28M), Knoxville ($0.63M), Charleston ($0.34M).
 
 ## Recommendations
 
@@ -85,8 +80,6 @@ The dataset consists of a single table containing all relevant information, incl
 - Focus inventory and marketing on high-growth regions, especially the eastern U.S. states.
 - Prioritize stock allocation for retailers like Foot Locker and Sports Direct due to their strong performance.
 - Capitalize on the 18% average price increase by introducing premium sports gear or bundles.
-- Optimize sales channels (outlet, in-store, online) based on their equal contribution to total sales.
-- Invest in top-performing categories like Women's Athletic Footwear to sustain growth and profitability.
 
 
 
