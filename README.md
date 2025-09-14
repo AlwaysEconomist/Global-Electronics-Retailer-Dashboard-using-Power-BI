@@ -38,7 +38,7 @@ The resulting Power BI dashboard spans four insightful pages—Order Details, Cu
   - Data model, star schema to create relationships betwenn tables.
 <img width="1917" height="1061" alt="image" src="https://github.com/user-attachments/assets/8dafd60b-ffac-4fa0-bc2c-5c7a37a921e6" />
 
-- DAX: Time intelligence calculations.
+- DAX calculations.
   - Mains Measures
 ```
  - Revenue = 
