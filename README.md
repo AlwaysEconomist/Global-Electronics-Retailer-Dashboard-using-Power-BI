@@ -8,17 +8,15 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Insights](#analysis-visualization-and-insights)
 - [Recommendations](#recommendations)
 
 
 ## Project Overview
-
-
-## Data Sources
-
+In a competitive retail landscape, businesses often struggle to extract actionable insights from vast datasets, leading to missed opportunities for growth and optimization. The Global Electronic Retailer project, built in Power BI using a Maven Analytics dataset, addresses this by transforming raw data into a dynamic, interactive dashboard that empowers data-driven decision-making. 
+In this project, I utilized Power Query to load and preprocess three dimension tables (Store, Product, Customer) and one fact table, standardizing data types, eliminating redundant columns, and creating custom columns like age bins derived from customer birthdates. A star schema was established in the data model to connect tables efficiently, complemented by a custom DAX-generated date table for advanced time intelligence analysis. 
+The resulting Power BI dashboard spans four insightful pages—Order Details, Customer Insights, Product Performance, and Global Revenue Overview—showcasing trends across categories, continents, countries, and months. With approximately 90 DAX measures, including key metrics, year-over-year variance, and max/min calculations, the dashboard leverages interactive features like drill-throughs, tooltips, field parameters, bookmarks, and conditional formatting to deliver a user-friendly, visually compelling experience that drives strategic business decisions and fuels revenue growth.
 
 
 ## Data Cleaning/Preparation
@@ -189,12 +187,10 @@ RETURN _check
 
 
 
-## Exploratory Data Analysis (EDA)
+## Analysis, Visualization and Insights
 
 
-
-
-##  The Power BI dashboard provides the following insights :
+ - The Power BI dashboard provides the following insights :
 
 
 
