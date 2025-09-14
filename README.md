@@ -231,17 +231,16 @@ RETURN _check
 
  ## Business Meaning
  
-     - The consistent growth in revenue, units sold, and profit suggests effective sales strategies and market demand. Stable profit margins indicate good cost management.
-     - Balanced gender revenue distribution implies marketing can target both genders equally.
-     - Concentration in Europe and North America highlights where to focus marketing and expansion efforts, while the low Australian revenue suggests untapped potential or weaker market penetration.
-     - Color preferences (Black, White, Silver) reflect customer tastes, which should guide inventory and design decisions.
-     - The increase in orders with a slight drop in average order value suggests more low-value purchases, possibly from new or price-sensitive customers.
-     - Improved delivery times enhance customer satisfaction and could boost retention.
-     - Product category demand (Computers, Cell Phones) indicates where to prioritize stock and promotions.
-     - A growing active customer base is positive, but the rising inactive percentage (22.13%) signals potential churn risk.
-     - Younger age groups (24-44) are more engaged, suggesting targeted retention for older demographics.
-     - Regional activity patterns reinforce the focus on North America and Europe for customer engagement.
-     - High-performing product categories (Computers, Home Appliances) and specific products (desktops, televisions) highlight areas of strength to maintain or expand.
+- The consistent growth in revenue, units sold, and profit suggests effective sales strategies and market demand. Stable profit margins indicate good cost management.
+- Balanced gender revenue distribution implies marketing can target both genders equally.
+- Concentration in Europe and North America highlights where to focus marketing and expansion efforts, while the low Australian revenue suggests untapped potential or weaker market penetration.
+- Color preferences (Black, White, Silver) reflect customer tastes, which should guide inventory and design decisions.
+- The increase in orders with a slight drop in average order value suggests more low-value purchases, possibly from new or price-sensitive customers.
+- Improved delivery times enhance customer satisfaction and could boost retention.
+- A growing active customer base is positive, but the rising inactive percentage (22.13%) signals potential churn risk.
+- Younger age groups (24-44) are more engaged, suggesting targeted retention for older demographics.
+- Regional activity patterns reinforce the focus on North America and Europe for customer engagement.
+- High-performing product categories (Computers, Home Appliances, Cell Phones) and specific products (desktops, televisions) highlight areas of strength to maintain or expand and prioritize stock and promotions..
 
 
 
@@ -251,7 +250,7 @@ RETURN _check
  - Launch gender-neutral marketing campaigns leveraging the balanced revenue split (49.18% Male, 50.82% Female).
  - Focus seasonal promotions in January and November to capitalize on revenue peaks.
  - Invest in marketing and logistics in Australia to boost its low revenue contribution (4.69%).
- - Strengthen presence in secondary markets like Canada, Italy, and the Netherlands.
+ - Strengthen presence in secondary markets like Canada, Italy, and the Netherlands that need further analysis.
  - Adjust pricing strategies to improve the declining average order value ($887, 0.6% decrease vs. PY).
  - Maintain or enhance delivery efficiency (4.5 days) to sustain customer satisfaction.
  - Prioritize stock and promotions for high-demand product categories (Computers, Cell Phones).
