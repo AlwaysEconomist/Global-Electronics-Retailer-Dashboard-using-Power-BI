@@ -21,7 +21,7 @@ The resulting Power BI dashboard spans four insightful pages—Order Details, Cu
 
 ## Data Cleaning/Preparation
 
-- Power Query in Power BI: Loaded and inspected 4 tables to identify and correct errors. Standardized data types and formats to validate data integrity. Calculate custom columns and remove the unnecessaries, etc....
+- Power Query :
     - Customers Table 
 <img width="1919" height="1075" alt="Screenshot 2025-09-14 063031" src="https://github.com/user-attachments/assets/7eab1624-d81e-443e-b96d-02085e724010" />
 
