@@ -23,7 +23,7 @@
 
 ## Data Cleaning/Preparation
 
-- Power Query in Power BI: Loaded and inspected 4 tables to identify and correct errors. Standardized data formats and validated data integrity. Calculate custom columns and remove the unnecessaries, etc....
+- Power Query in Power BI: Loaded and inspected 4 tables to identify and correct errors. Standardized data types and formats to validate data integrity. Calculate custom columns and remove the unnecessaries, etc....
     - Customers Table 
 <img width="1919" height="1075" alt="Screenshot 2025-09-14 063031" src="https://github.com/user-attachments/assets/7eab1624-d81e-443e-b96d-02085e724010" />
 
@@ -36,10 +36,10 @@
   - Date Table using DAX
 <img width="1913" height="1050" alt="image" src="https://github.com/user-attachments/assets/26629456-adfb-4e21-8629-2a3ce5541dfe" />
 
-  - Data model, snowflake schema to create relationships betwenn table
+  - Data model, star schema to create relationships betwenn tables.
 <img width="1917" height="1061" alt="image" src="https://github.com/user-attachments/assets/8dafd60b-ffac-4fa0-bc2c-5c7a37a921e6" />
 
-- DAX: Time intelligence calculations (e.g., MoM measures).
+- DAX: Time intelligence calculations.
   - Mains Measures
 ```
  - Revenue = 
