@@ -1,6 +1,7 @@
 
 
-<img width="1478" height="828" alt="Retailer_1" src="https://github.com/user-attachments/assets/78e22f1e-450b-4296-a2a5-39eb70c0eaf8" />
+<img width="1406" height="790" alt="Screenshot 2025-09-22 114800" src="https://github.com/user-attachments/assets/cd008c44-5a20-45cc-a64e-7c6685e5052e" />
+
 
 
 
@@ -201,29 +202,27 @@ RETURN _check
    - Revenue is concentrated in Europe (38.29%) and North America (61.71%), with minimal contribution from Australia (4.69%), indicating key markets.
    - Revenue peaks in January and November, with a notable dip in April, pointing to seasonal trends.
    - USA leads, followed by UK, Germany, Canada, and others, showing a strong North American and European customer base.
-  
-<img width="1478" height="828" alt="Retailer_1" src="https://github.com/user-attachments/assets/bf0627b0-7a50-4ec3-9a74-5a7271368dd5" />
+     
+  <img width="1406" height="790" alt="Screenshot 2025-09-22 114800" src="https://github.com/user-attachments/assets/bf06bef6-9116-4803-b176-8f17ba5160e2" />
 
 
 
    - Total orders are 62,884 (12.8% vs. PY), average order value is $887 (0.6% decrease vs. PY), average delivery days are 4.5 (1.9% improvement vs. PY), and average price is $356.03 (no change vs. PY).
    - Orders are split 49.42% Male and 50.58% Female, with North America (62.31%), Europe (33.01%), and Australia (4.68%) mirroring revenue distribution.
 
- <img width="1475" height="824" alt="Retailer_2" src="https://github.com/user-attachments/assets/b78bbc61-d185-4bb3-8ec0-4bdf7fee4b6e" />   
- 
+
+
+ <img width="1409" height="788" alt="Screenshot 2025-09-22 114826" src="https://github.com/user-attachments/assets/e4f5dabf-3c10-47b0-bf45-d92f82fb8f00" />
+
    - Computers (14,025), Cell Phones (10,158), and Music, Movies & Audio (9,169) lead, with subcategories like Desktops (6,447) and Laptops (1,600) showing specific demand.
    - Total customers are 15,266, with 11,887 active (5.0% vs. PY) and 3,379 inactive (14.3% vs. PY), equating to 22.13% inactivity.
-   - The 24-44 age group is the largest active segment, while 75-95 shows higher inactivity.
-
-<img width="1399" height="824" alt="Retailer_3" src="https://github.com/user-attachments/assets/02ccce4e-1330-4043-9a4a-51baf6da6a97" />
-
-
-
+   - The 24-44 age group is the largest active segment, while 75-95 shows higher inactivity
    - North America has the highest active customer base, with Europe and Australia showing moderate activity and inactivity.
    - Key products include desktops (e.g., Adventure Works Desktop PC2.33 XZ330 Black at $505,450 revenue, $337,986 profit) and televisions (e.g., Adventure Works 52" LCD HDTV X590 Black at $374,099 revenue, $250,153 profit). Black and Silver desktops show high revenue ($466,089 and $466,089 respectively), while White and Brown variants also perform well.
    - Computers lead with the highest revenue, followed by Home Appliances, Cameras and Camcorders, Cell Phones, TV and Video, Audio, Music, Movies & Audio, and Games and Toys, indicating a strong demand for tech and home-related products.
 
-<img width="1474" height="823" alt="Retailer_4" src="https://github.com/user-attachments/assets/453299b3-54c2-49f5-9938-0e89c9e740f2" />
+<img width="1409" height="777" alt="Screenshot 2025-09-22 114846" src="https://github.com/user-attachments/assets/66ac3fd7-bf6e-41bc-ab8f-ba1bdc2ac18f" />
+
 
 
      
